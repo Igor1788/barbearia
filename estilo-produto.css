@@ -1,0 +1,12 @@
+header{
+    background: #bbbbbb;
+}
+
+nav li{
+    display: inline-block;
+}
+
+nav a{
+    text-transform: uppercase
+    ;
+}
